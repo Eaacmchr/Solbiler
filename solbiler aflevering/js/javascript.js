@@ -1,7 +1,7 @@
 const biler = [
     {
         bilmaerke: "Suzuki Swift",
-        billede: "billeder/Suzukiswift.png",
+        billede: "billeder/suzukiswift.png",
         billedtekst: "Udlejningsbil",
         kategori: "Budget",
         personer: "4",
@@ -11,7 +11,7 @@ const biler = [
     },
     {
         bilmaerke: "Mazda CX3",
-        billede: "billeder/Mazda.png",
+        billede: "billeder/mazda.png",
         billedtekst: "Udlejningsbil",
         kategori: "Mellemklasse",
         personer: "5",
@@ -21,7 +21,7 @@ const biler = [
     },
     {
         bilmaerke: "Citroën Grand C4 Picasso",
-        billede: "billeder/Citroen.png",
+        billede: "billeder/citroen.png",
         billedtekst: "Udlejningsbil",
         kategori: "Minivan",
         personer: "7",
